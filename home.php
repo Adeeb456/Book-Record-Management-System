@@ -51,7 +51,7 @@
 
         <div class="LinkDiv">
 
-            <a href="update.php"> Update Cart Stock </a>
+            <a href="#"> Update Cart Stock </a>
         </div>
 
 
