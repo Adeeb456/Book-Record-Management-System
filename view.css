@@ -1,0 +1,64 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(214, 174, 214, 0.65);
+}
+
+#form-container {
+  margin: auto;
+  background-color: coral;
+  width: 75%;
+  background-color: rgba(207, 155, 207, 0.65);
+  border-radius: 25px;
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+
+#form-header {
+  text-align: center;
+}
+
+table {
+  background-color: coral;
+  width: 95%;
+  height: 100%;
+  margin: auto;
+}
+
+th {
+  background-color: rgba(226, 158, 55, 0.911);
+  text-align: center;
+  padding: 10px;
+  font-size: larger;
+}
+
+td {
+  background-color: blanchedalmond;
+  text-align: center;
+  padding: 10px;
+  font-size: large;
+}
+
+#submit-button {
+  border-radius: 50px;
+  background-color: violet;
+  border: none;
+  width: 50%;
+  color: rgb(22, 7, 7);
+}
+
+#submit-button:hover {
+  background-color: red;
+  cursor: pointer;
+  color: blanchedalmond;
+}
+
+#header-div {
+  margin: auto;
+  margin-bottom: 0px;
+}
