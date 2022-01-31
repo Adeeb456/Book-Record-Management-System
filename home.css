@@ -1,0 +1,43 @@
+*
+{
+    margin : 0px;
+    padding : 0px;
+    box-sizing : border-box ;
+}
+
+body
+{
+    background-color: rgba(230, 243, 238, 0.849);
+}
+
+#container
+{
+   text-align : center;
+   background-color: rgba(199, 152, 136, 0.65);
+   height:550px;
+   width:75%;
+   margin: auto ;
+   position : relative;
+   top:50px;
+   border-radius: 20px;
+}
+
+
+a
+{
+    text-decoration : none ;
+    color:black;
+    font-size:25px;
+}
+
+.LinkDiv
+{
+    background-color: antiquewhite;
+    height : 15%;
+    text-align: center;
+}
+
+.LinkDiv:hover
+{
+    background-color:rgb(159, 128, 189);
+}
